@@ -1,4 +1,4 @@
-## 1. Toggle Case
+## 1. Toggle Case.
 
 **Problem:**
 
