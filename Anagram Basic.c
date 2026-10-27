@@ -1,5 +1,5 @@
 4. Anagram Basic
-Problem
+Problem.
 
 Given two strings A and B consisting of lowercase characters, check whether they are anagrams.
 
