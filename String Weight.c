@@ -1,4 +1,4 @@
-Problem
+Problem.
 
 Given a string S containing letters and digits, calculate its weight.
 
