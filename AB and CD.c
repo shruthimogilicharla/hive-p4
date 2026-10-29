@@ -1,4 +1,4 @@
-Problem
+Problem.
 
 Given a string S, repeatedly remove occurrences of the substrings AB or CD.
 
