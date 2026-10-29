@@ -1,4 +1,4 @@
-Problem
+Problem.
 
 A balanced string contains an equal number of L and R characters.
 
